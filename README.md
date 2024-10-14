@@ -13,6 +13,8 @@
 3. 새로 뜨는 창에 라즈베리파이 내 아이디 및 비밀번호를 입력하세요.
 (아이디 및 비밀번호도 저에게 요청하시기 바랍니다.)
 4. 잘 접속되면, 아래와 같이 바탕화면이 뜹니다. 라즈베리파이 코드는 Visual Studio Code를 더블클릭하여 실행하면 담겨 있습니다. 파일명이 일치하는 소스코드를 실행하면 됩니다.
-5. 한/영 전환 키는 Shift+Space입니다.
+5. 한/영 전환 키는 Shift+Space입니다.  
    
-![image](https://github.com/user-attachments/assets/6645bafe-22bb-4003-9fb1-24d7edcc73fb)
+![image](https://github.com/user-attachments/assets/6645bafe-22bb-4003-9fb1-24d7edcc73fb)  
+
+각 버전 폴더 안에 버전마다의 README가 있으니 (작성 예정이니) 참고 바랍니다.

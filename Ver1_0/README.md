@@ -1,4 +1,4 @@
-[1] Ver 1_0  
+## Ver 1_0  
 클라이언트 측 : rpicam8_streaming_cvjpeg.py  
 서버 측 : 2_rpicam8_stream_flask.py 그리고 templates 폴더 안에 rpicam8.html  
 

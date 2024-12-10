@@ -16,4 +16,3 @@
    
 ![image](https://github.com/user-attachments/assets/6645bafe-22bb-4003-9fb1-24d7edcc73fb)  
 
-각 버전 폴더 안에 버전마다의 README가 있으니 (작성 예정이니) 참고 바랍니다.
